@@ -1,0 +1,14 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.random-button {
+  margin: 100px 100px;
+}
+
+.technicolor {
+  background-color: blue;
+}
