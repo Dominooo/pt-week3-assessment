@@ -4,7 +4,8 @@
 
     //code here
     var person = function(name, age){
-      
+      person.name = name,
+      person.age = age
     };
 
 // Call your function twice creating two different objects
